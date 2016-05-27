@@ -1,0 +1,72 @@
+.parta{
+  color: white;
+  background-color: #383838;
+  padding: 30px;
+  border-radius:2px;
+}
+
+.title{
+  font-family: 'Audiowide', sans-serif;
+  text-align:center;
+  
+}
+
+.subtitle{
+  font-family: 'Audiowide', sans-serif;
+  text-align:center;
+  
+}
+
+.contact-buttons{
+  font-family: 'Audiowide', sans-serif;
+  text-align: center;
+  margin: 1%;
+}
+
+.navigation-bar{
+  z-index: 99999;
+  list-style-type: none;
+  top:0;
+  width:100%;
+  font-family: 'Audiowide', sans-serif;
+  position: fixed;
+  background-color: rgba(1,1,1,0.5);
+  color:white;
+  padding:0;
+  margin:0;
+}
+.navigation-bar a{
+  color:white;
+}
+
+li{
+  float: left;
+}
+.nav-link{
+  
+  padding: 10px;
+}
+
+
+.about{
+  font-family: 'Audiowide', sans-serif;
+  text-align: right;
+  margin: 1%;
+  padding: 0%;
+  /* position: relative;
+  top: 50%;
+  transform: translateY(-50%); */
+}
+
+.thumbnail{
+  font-family: 'AudioWide', monospace;
+  text-align:center;
+  padding: 1%,1%,1%,4%;
+  margin: 1%,2%,1%,2%;
+  border-radius:2px;
+  background-color: lightgrey;
+}
+
+.section-title{
+  font-family: 'AudioWide', sans-serif;
+}
