@@ -1,0 +1,35 @@
+body{
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#61c419+0,b4e391+50,61c419+100 */
+      background: #61c419; /* Old browsers */
+      background: -moz-linear-gradient(left, #61c419 0%, #b4e391 50%, #61c419 100%); /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right top, color-stop(0%,#61c419), color-stop(50%,#b4e391), color-stop(100%,#61c419)); /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(left, #61c419 0%,#b4e391 50%,#61c419 100%); /* Chrome10+,Safari5.1+ */
+      background: -o-linear-gradient(left, #61c419 0%,#b4e391 50%,#61c419 100%); /* Opera 11.10+ */
+      background: -ms-linear-gradient(left, #61c419 0%,#b4e391 50%,#61c419 100%); /* IE10+ */
+      background: linear-gradient(to right, #61c419 0%,#b4e391 50%,#61c419 100%); /* W3C */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#61c419', endColorstr='#61c419',GradientType=1 ); /* IE6-9*/
+}
+
+.main{
+  color:grey;
+  font-family: 'Slackey';
+  height:100% !important;
+  text-align: center;
+}
+
+.list{
+  text-align: left;
+}
+
+li{
+  font-family:'Ubuntu Mono', monospace;
+  list-style:none;
+}
+
+a{
+  color:grey;
+}
+
+a:hover{
+  color:black;
+}
