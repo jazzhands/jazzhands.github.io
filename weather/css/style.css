@@ -1,0 +1,52 @@
+body{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#8ec1e5+0,69a9d3+100 */
+background: rgb(142,193,229); /* Old browsers */
+background: -moz-linear-gradient(left, rgba(142,193,229,1) 0%, rgba(105,169,211,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(142,193,229,1)), color-stop(100%,rgba(105,169,211,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, rgba(142,193,229,1) 0%,rgba(105,169,211,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, rgba(142,193,229,1) 0%,rgba(105,169,211,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, rgba(142,193,229,1) 0%,rgba(105,169,211,1) 100%); /* IE10+ */
+background: linear-gradient(to right, rgba(142,193,229,1) 0%,rgba(105,169,211,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ec1e5', endColorstr='#69a9d3',GradientType=1 ); /* IE6-9 */
+  
+  color:#4D4D4D;
+}
+
+button {
+  text-transform: capitalize;
+  margin: 1px;
+}
+
+.current-conditions{
+  text-align:center;
+}
+.title{
+  background-color:lightgrey;
+  border-style: none;
+  border-color:grey;
+  border-radius: 15px;
+  margin: 1% 0% 1% 0%;
+  padding: 0px 0px 10px 0px;
+  text-align: center;
+}
+
+.data{
+  background-color:lightgrey;
+  border-color:grey;
+  border-style:none;
+  border-width: medium;
+  border-radius: 15px;
+  margin: 2% 0% 0 0%;
+  padding: 1.5% 0% 2% 0%;
+  text-align: center;
+  text-transform: capitalize;
+  height: 90px;
+  vertical-align: center;
+  line-height: 50px;
+  font-size: 18pt;
+}
+
+.instructions{
+  text-align: center;
+  font-size: 13pt;
+}

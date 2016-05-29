@@ -1,0 +1,29 @@
+body{background-color:slategrey;}
+
+h1{color:DarkOrange;}
+
+input{
+  background-color:slategrey;
+  border-radius:10px;
+  border-style:solid;
+  border-color:darkorange;
+  color:darkorange;
+}
+
+button{
+  color:slategrey;
+  background-color:darkorange;
+}
+
+.header{
+  border:solid darkorange;
+  padding: 15px;
+  margin: 15px;
+  border-radius:25px;
+  text-align:center;
+}
+
+.input{
+  text-align:center;
+  margin: 15px;
+}
