@@ -7,21 +7,44 @@ body{
   color: lightblue;
 }
 
+.row-keys{
+}
+
 .key{
   background-color: lightgrey;
-  padding: 3%;
-  margin: 0;
+  /*padding: 3%;*/
   font-family: Courier, monospace;
+  border-radius: 0;
+}
+.key:hover{
+  background-color: #FFFFFF;
+  /*padding: 3%;*/
+  font-family: Courier, monospace;
+}
+
+
+
+.key-div{
 }
 
 .key-fn{
   background-color: darkgrey;
-  color: lightgrey;
+  color: black;
+}
+
+.key-fn:hover{
+  background-color: #707070;
+  color: black;
 }
 
 .key-del{
   background-color: black;
   color: lightgrey;
+}
+
+.key-del:hover{
+  background-color: #505050;
+  color: white;
 }
 
 .title{
